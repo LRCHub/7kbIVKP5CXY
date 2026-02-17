@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Pretender (Acoustic Ver)",
+  "base_artist": "Official Hige Dandism",
+  "createdAt": "2026-02-17T14:56:35.628462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Great Pretender [Acoustic Version]",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/01_The_Great_Pretender_[Acoustic_Version]_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Great Pretender (Acoustic Version)",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/02_The_Great_Pretender_(Acoustic_Version)_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pretender (Acoustic)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/03_Pretender_(Acoustic)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pretender (Acoustic Ver)",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/04_Pretender_(Acoustic_Ver)_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pretender (Acoustic ver.)",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/05_Pretender_(Acoustic_ver.)_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pretender (Acoustic) [Deluxe Edition Bonus Track]",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/06_Pretender_(Acoustic)_[Deluxe_Edition_Bonus_Track]_AJR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pretender (Acoustic Ver)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/07_Pretender_(Acoustic_Ver)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pretender (Acoustic Ver)",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/08_Pretender_(Acoustic_Ver)_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Great Pretender (Acoustic)",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/09_The_Great_Pretender_(Acoustic)_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pretender(Acoustic Ver)",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/10_Pretender(Acoustic_Ver)_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pretender (Acoustic)",
+      "artist": "AJP",
+      "has_synced": true,
+      "path": "select/11_Pretender_(Acoustic)_AJP.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pretender - Acoustic (Paused)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/12_Pretender_-_Acoustic_(Paused)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pretender (Acoustic) Acoustic",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/13_Pretender_(Acoustic)_Acoustic_AJR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pretender(Acoustic ver.)",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Pretender(Acoustic_ver.)_Official髭男dism.txt"
+    }
+  ]
+}
